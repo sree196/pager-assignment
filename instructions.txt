@@ -1,0 +1,2 @@
+once the application is run 
+use the swagerapi to pass the log file 
